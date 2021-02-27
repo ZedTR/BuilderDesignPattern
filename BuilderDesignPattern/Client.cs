@@ -12,13 +12,21 @@ namespace BuilderDesignPattern
 
             var fancyConstractor = new Contracter2();
 
+            Console.WriteLine("**************Basic House****************");
+
             bossMan.Builder = basicContractor;
 
-            bossMan.BuildHouse();
+            bossMan.BuildHouseStageOne();
+
+            bossMan.BuildHouseComplete();
+
+            Console.WriteLine("**************Fancy House***************");
 
             bossMan.Builder = fancyConstractor;
 
-            bossMan.BuildHouse();
+            bossMan.BuildHouseStageOne();
+
+            bossMan.BuildHouseComplete();
 
         }
     }

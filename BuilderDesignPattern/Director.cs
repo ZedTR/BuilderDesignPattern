@@ -12,7 +12,16 @@ namespace BuilderDesignPattern
 
         private  House house = new House();
 
-        public void BuildHouse()
+        public void BuildHouseStageOne()
+        {
+            _builder.BuildTiles();
+            _builder.BuildWalls();
+            _builder.BuildWindows();
+            house = _builder.ShowHouse();
+            Console.WriteLine(house.DisplayComponents());
+        }
+
+        public void BuildHouseComplete()
         {
             
             _builder.BuildTiles();
