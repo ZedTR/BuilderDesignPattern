@@ -1,0 +1,13 @@
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.exe
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.deps.json
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.dll
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.pdb
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.dll
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.pdb
+C:\Users\Zed\Source\repos\BuilderDesignPattern\AbrstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbrstractFactoryDesignPattern.genruntimeconfig.cache
