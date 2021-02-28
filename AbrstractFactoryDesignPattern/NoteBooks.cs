@@ -16,9 +16,9 @@ namespace AbrstractFactoryDesignPattern
             get => "Green Text Book";
             set => GreenTextBook = value; 
         }
-        public string PrintNoteBooks() =>  GreenNoteBook;
+        public string PrintBooks() =>  GreenNoteBook;
 
 
-        public string PrintTextBook() => GreenTextBook;
+        public string PrintBook() => GreenTextBook;
     }
 }

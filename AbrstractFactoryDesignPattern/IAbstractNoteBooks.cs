@@ -6,7 +6,7 @@ namespace AbrstractFactoryDesignPattern
 {
     public interface IAbstractNoteBooks
     {
-        string PrintNoteBooks();
-        string PrintTextBook();
+        string PrintBooks();
+        string PrintBook();
     }
 }

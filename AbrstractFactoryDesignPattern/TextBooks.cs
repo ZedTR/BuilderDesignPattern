@@ -15,19 +15,19 @@ namespace AbrstractFactoryDesignPattern
             get => "Red Text Book";
             set => RedTextBook = value;
         }
-        public string PrintNoteBook()
+        public string PrintBook()
         {
             return RedNoteBook;
         }
 
-        public string PrintTextBook()
+        public string PrintABook()
         {
             return RedTextBook;
         }
 
         public string PrintTextBookWithNoteBook(IAbstractNoteBooks abstractNoteBooks)
         {
-            return abstractNoteBooks.PrintNoteBooks()  +" "+ RedTextBook;
+            return abstractNoteBooks.PrintBooks()  +" "+ RedTextBook;
         }
     }
 }

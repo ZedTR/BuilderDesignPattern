@@ -6,9 +6,9 @@ namespace AbrstractFactoryDesignPattern
 {
     public interface IAbstractTextBooks
     {
-        string PrintTextBook();
+        string PrintABook();
 
-        string PrintNoteBook();
+        string PrintBook();
 
         string PrintTextBookWithNoteBook(IAbstractNoteBooks abstractNoteBooks);
     }
